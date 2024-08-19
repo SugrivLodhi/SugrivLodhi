@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Graghql and Nest js**
 
-- 👯 I’m looking to collaborate on **Jain Sangh**
-
 - 💬 Ask me about **React ,Nextjs ,Node ,Graphql**
 
 - 📫 How to reach me **sugrivmlvt@gmail.com**
