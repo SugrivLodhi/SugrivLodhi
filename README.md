@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-* 💼 Full Stack Developer with **4+ years of experience** building scalable web applications
+* 💼 Full Stack Developer with **5+ years of experience** building scalable web applications
 * 👨‍💻 Leading a team, conducting code reviews, mentoring juniors, and driving project delivery
 * 🔭 Currently building **E-commerce, SaaS, and AI-powered applications**
 * 🌱 Exploring **GenAI, RAG Systems, Vector Databases, LangGraph, and AI Integrations**
